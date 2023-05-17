@@ -3,7 +3,7 @@ let myObject=person1 {
     age: 23
     occupation: teacher
     display: function(){
-        let myList=[name,age,occupation]
+        console.log(&)
     }
 }
 console.log(&name &age &occupation)
